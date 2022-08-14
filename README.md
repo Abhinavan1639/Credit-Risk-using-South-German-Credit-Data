@@ -1,4 +1,4 @@
-# (iNeuron Internship) Predict-Bank-Credit-Risk-using-South-German-Bank-Credit-Risk 
+# (iNeuron Internship) Predict-Bank-Credit-Risk-using-South-German-Bank-Credit-Risk by Abhinavan
 
 ## Table of Content
 - Introduction
