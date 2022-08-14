@@ -65,10 +65,6 @@ Data mining makes it possible to find hidden information from large data sets by
 ## User Interface
 The Prediction of Credit Risk Final Model Run in Local Enviornment
 
-1. Main Page :
-
-![Screenshot (94)](https://user-images.githubusercontent.com/62636740/139243173-98a35c5f-d7b8-4246-9287-0d9e4d2dd668.png)
-
 ## File Structure
 ~~~
 Project
