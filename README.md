@@ -64,11 +64,6 @@ The Prediction of Credit Risk Final Model Run in Local Enviornment
 
 ![Screenshot (94)](https://user-images.githubusercontent.com/62636740/139243173-98a35c5f-d7b8-4246-9287-0d9e4d2dd668.png)
 
-2. Result Page :
-
-![Screenshot (93)](https://user-images.githubusercontent.com/62636740/139243363-4c46d61b-8c29-4492-b766-311153d4b443.png)
-
-
 ## File Structure
 ~~~
 Project
